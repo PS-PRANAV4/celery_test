@@ -1,0 +1,6 @@
+.venv
+./venv
+.env
+myproject/venv
+venv
+..venv
